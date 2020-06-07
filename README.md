@@ -9,7 +9,9 @@ GitHub.
 
 print("hello world")
 
-#função input
+#manipulando 'listas'
+
+#função 'input'
 anoatual = int(input("Digite o ano atual: "))
 anonasc = int(input("Digite o ano em que nasceu: "))
 idade = anoatual - anonasc
